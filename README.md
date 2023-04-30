@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a backend developer, designer and currently working as IT helpdesk technician. I'm currently interested in film restoration techniques and code. My main programming language is Kotlin and my biggest project up to this day is Zigote - my 3rd generation Discord bot.
+I'm a backend developer, designer and currently working as a freelancer. I'm interested in film restoration techniques, architecture and code. My main programming language is Kotlin and my biggest project up to this day is Zigote - my 3rd generation Discord bot.
 
 Mubeppod -> SCBot -> Zigote
 
