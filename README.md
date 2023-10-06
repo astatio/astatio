@@ -9,11 +9,11 @@ I'm:
 
 ### Achievements
 Discord bot serving over 30.000 members.
-Very likely the first ever to reach this milestone using Realms.
+Very likely the first ever to reach this milestone using [Realms](https://github.com/realm/realm-kotlin).
 
 ### Programming languages
 - Kotlin (Advanced)
-- Python (Average)
+- Python (Beginner)
 - Rust (Beginner)
 
 [![My Skills](https://skillicons.dev/icons?i=kotlin,py,raspberrypi,discord,figma,idea,ps&theme=light)](https://skillicons.dev)
