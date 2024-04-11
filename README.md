@@ -1,23 +1,26 @@
-### Hi there 👋
+### Hello
 
 I'm:
 - Backend developer
-- Designer
+- UI/UX Designer
 - IT helpdesk specialist
-- Train enthusiast
 - Self-taught
+- Train enthusiast
 
-### Achievements
-Discord bot serving over 30.000 members.
-Very likely the first ever to reach this milestone using [Realms](https://github.com/realm/realm-kotlin).
+### Relevant Projects
+TBD.
 
 ### Programming languages
-- Kotlin (Advanced)
-- Python (Beginner)
-- Rust (Beginner)
+##### experience level (highest → lowest)
 
-[![My Skills](https://skillicons.dev/icons?i=kotlin,py,raspberrypi,discord,figma,idea,ps&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kotlin,py,c,rust&theme=light)](https://skillicons.dev)
 
+### Database knowledge
+##### experience level (highest → lowest)
+[![My Skills](https://skillicons.dev/icons?i=mongodb&theme=light)](https://skillicons.dev) [^1]
 #### 🌱 I’m currently learning ...
-
-[![My Skills](https://skillicons.dev/icons?i=mongodb,docker,wasm,rust,js&theme=light)](https://skillicons.dev)
+##### Higher priority
+[![My Skills](https://skillicons.dev/icons?i=c,docker,kubernetes&theme=light)](https://skillicons.dev)
+##### Lower priority
+[![My Skills](https://skillicons.dev/icons?i=rust,wasm,js&theme=light)](https://skillicons.dev)
+[^1]: This includes both MongoDB and [Realm](https://github.com/realm/realm-kotlin).
