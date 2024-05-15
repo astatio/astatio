@@ -2,8 +2,8 @@ name: Metrics
 on:
   # Schedule daily updates
   schedule: [{cron: "0 0 * * *"}]
-  workflow_dispatch: 
-  
+  workflow_dispatch:
+
 jobs:
 
   github-metrics:
@@ -16,7 +16,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          
+
   most-used-languages:
     needs: github-metrics
     runs-on: ubuntu-latest
@@ -85,7 +85,40 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.activity.charts.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_activity: yes
+          plugin_habits_facts: yes
+          plugin_habits_charts: no
+          config_timezone: Europe/Lisbon
 
-          
+  wakatime:
+    needs: recent-activity-charts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.wakatime.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_wakatime: yes
+          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+
+  notable-contributions:
+    needs: wakatime
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+        filename: metrics.plugin.notable.indepth.svg
+        token: ${{ secrets.METRICS_TOKEN }}
+        base: ""
+        plugin_notable: yes
+        plugin_notable_repositories: yes
+        plugin_notable_indepth: yes
+
 
 
