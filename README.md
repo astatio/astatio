@@ -7,6 +7,19 @@ I'm:
 - Self-taught
 - Train enthusiast
 
+<picture>
+  <img src="/github-metrics.svg" alt="Metrics">
+</picture>
+
+
+
+
+
+
+
+
+
+
 ### Relevant Projects
 TBD.
 
