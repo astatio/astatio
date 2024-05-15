@@ -8,32 +8,14 @@ I'm:
 - Train enthusiast
 
 <picture>
-  <img src="/github-metrics.svg" alt="Metrics">
+  <img src="/metrics.plugin.languages.svg" alt="Metrics">
 </picture>
-
-
-
-
-
-
-
-
-
-
-### Relevant Projects
-TBD.
-
-### Programming languages
-##### experience level (highest → lowest)
-
-[![My Skills](https://skillicons.dev/icons?i=kotlin,py,c,rust&theme=light)](https://skillicons.dev)
-
-### Database knowledge
-##### experience level (highest → lowest)
-[![My Skills](https://skillicons.dev/icons?i=mongodb&theme=light)](https://skillicons.dev) [^1]
-#### 🌱 I’m currently learning ...
-##### Higher priority
-[![My Skills](https://skillicons.dev/icons?i=c,docker,kubernetes&theme=light)](https://skillicons.dev)
-##### Lower priority
-[![My Skills](https://skillicons.dev/icons?i=rust,wasm,js&theme=light)](https://skillicons.dev)
-[^1]: This includes both MongoDB and [Realm](https://github.com/realm/realm-kotlin).
+<picture>
+  <img src="/metrics.plugin.activity.charts.svg" alt="Metrics">
+</picture>
+<picture>
+  <img src="/metrics.plugin.wakatime.svg" alt="Metrics">
+</picture>
+<picture>
+  <img src="/metrics.plugin.notable.indepth.svg" alt="Metrics">
+</picture>
