@@ -31,23 +31,10 @@ jobs:
             html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
             gnuplot
           plugin_languages_details: percentage
-          plugin_languages_limit: 10
-
-  topics:
-    needs: most-used-languages
-    runs-on: ubuntu-latest
-    steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.topics.icons.svg
-          token: NOT_NEEDED
-          base: ""
-          plugin_topics: yes
-          plugin_topics_limit: 0
-          plugin_topics_mode: icons
+          plugin_languages_limit: 4
 
   recent-activity-charts:
-    needs: topics
+    needs: most-used-languages
     runs-on: ubuntu-latest
     steps:
       - uses: lowlighter/metrics@latest
@@ -70,7 +57,6 @@ jobs:
           token: NOT_NEEDED
           base: ""
           plugin_wakatime: yes
-          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
 
   notable-contributions:
