@@ -1,12 +1,5 @@
 ### Hello
 
-I'm:
-- Backend developer
-- UI/UX Designer
-- IT helpdesk specialist
-- Self-taught
-- Train enthusiast
-
 <picture>
   <img src="/metrics.plugin.languages.svg" alt="Metrics">
 </picture>
