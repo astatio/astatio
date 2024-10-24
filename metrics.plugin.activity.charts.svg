@@ -23,20 +23,20 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 2 commits in
-                                        <span class="repo">astatio/SparksEngine</span>
+                                        <span class="repo">astatio/SparksEngine-private</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#bdbf600</div>
-                                        <div class="message">Merge pull request #11 from astatio/renovate/ktor-monorepo
+                                        <div class="sha">#2dae39e</div>
+                                        <div class="message">Merge pull request #41 from astatio/renovate/gradle-8.x
 
-Update ktor monorepo to v3.0.0</div>
+chore(deps): update dependency gradle to v8.10.2</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#33712e3</div>
-                                        <div class="message">Update ktor monorepo to v3.0.0-beta-2</div>
+                                        <div class="sha">#669d25f</div>
+                                        <div class="message">chore(deps): update dependency gradle to v8.10.2</div>
                                     </div>
                                 </div>
                             </section>
@@ -49,11 +49,11 @@ Update ktor monorepo to v3.0.0</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#11 Update ktor monorepo to v3.0.0</span>
+                                        <span class="issue">#41 chore(deps): update dependency gradle to v8.10.2</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by renovate[bot] in <span class="repo">astatio/SparksEngine</span></div>
+                                    <div>opened by renovate[bot] in <span class="repo">astatio/SparksEngine-private</span></div>
                                     <div>1 file changed <span class="code">++1 --1</span></div>
                                 </div>
                             </section>
@@ -66,20 +66,20 @@ Update ktor monorepo to v3.0.0</div>
                                     </svg>
                                     <div class="content">
                                         Pushed 2 commits in
-                                        <span class="repo">astatio/SparksEngine</span>
+                                        <span class="repo">astatio/SparksEngine-private</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#489c1bf</div>
-                                        <div class="message">Merge pull request #10 from astatio/renovate/apachecommonsrng
+                                        <div class="sha">#f9d966e</div>
+                                        <div class="message">Merge pull request #42 from astatio/renovate/mongodbdriver
 
-Update apacheCommonsRng to v1.6</div>
+fix(deps): update dependency org.mongodb:mongodb-driver-kotlin-coroutine to v5.2.0</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#7bef62b</div>
-                                        <div class="message">Update apacheCommonsRng to v1.6</div>
+                                        <div class="sha">#5682922</div>
+                                        <div class="message">fix(deps): update dependency org.mongodb:mongodb-driver-kotlin-coroutine to v5.2.0</div>
                                     </div>
                                 </div>
                             </section>
@@ -92,11 +92,11 @@ Update apacheCommonsRng to v1.6</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#10 Update apacheCommonsRng to v1.6</span>
+                                        <span class="issue">#42 fix(deps): update dependency org.mongodb:mongodb-driver-kotlin-coroutine to v5.2.0</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by renovate[bot] in <span class="repo">astatio/SparksEngine</span></div>
+                                    <div>opened by renovate[bot] in <span class="repo">astatio/SparksEngine-private</span></div>
                                     <div>1 file changed <span class="code">++1 --1</span></div>
                                 </div>
                             </section>
@@ -109,20 +109,20 @@ Update apacheCommonsRng to v1.6</div>
                                     </svg>
                                     <div class="content">
                                         Pushed 2 commits in
-                                        <span class="repo">astatio/SparksEngine</span>
+                                        <span class="repo">astatio/SparksEngine-private</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#6bd503b</div>
-                                        <div class="message">Merge pull request #9 from astatio/renovate/gradle-8.x
+                                        <div class="sha">#da223af</div>
+                                        <div class="message">Merge pull request #40 from astatio/renovate/jda
 
-Update dependency gradle to v8.10.2</div>
+fix(deps): update dependency net.dv8tion:jda to v5.1.2</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#56670c6</div>
-                                        <div class="message">Update dependency gradle to v8.9</div>
+                                        <div class="sha">#25a2247</div>
+                                        <div class="message">fix(deps): update dependency net.dv8tion:jda to v5.1.2</div>
                                     </div>
                                 </div>
                             </section>
