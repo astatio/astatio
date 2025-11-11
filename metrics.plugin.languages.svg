@@ -21,8 +21,8 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="453.4792646189363" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="453.4792646189363" y="0" width="6.5207353810636555" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="457.67779026619036" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="457.67779026619036" y="0" width="2.322209733809653" height="8" fill="#f34b7d"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -34,7 +34,7 @@
                                 Kotlin
                             </div>
                             <small>
-                                <div>98.58%</div>
+                                <div>99.5%</div>
                             </small>
                         </div>
                     </section>
@@ -47,7 +47,7 @@
                                 C++
                             </div>
                             <small>
-                                <div>1.42%</div>
+                                <div>0.5%</div>
                             </small>
                         </div>
                     </section>
